@@ -6,16 +6,12 @@ Welcome to DemoChief's documentation!
 Hello World!
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :hidden:
 
-   intro
-   terminology
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   getting-started/index
+   office-software/index
+   mobile-software/index
+   server-software/index
+   database/index
+   glossary

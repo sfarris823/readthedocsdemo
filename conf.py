@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'DemoChief'
-copyright = u'2017, DemoChief, Inc.'
+copyright = u'2017, DemoChief, Inc'
 author = u'John Smith'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -92,14 +92,17 @@ html_theme_path = ['_themes', ]
 # documentation.
 #
 html_theme_options = {
-    "collapse_navigation" : False
+    'collapse_navigation' : False,
+    'display_version': False,
+    'show_sphinx' : False
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-
+html_show_sourcelink = False
+show_sphinx = False
 
 # -- Options for HTMLHelp output ------------------------------------------
 
