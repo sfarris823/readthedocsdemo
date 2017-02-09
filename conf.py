@@ -93,8 +93,7 @@ html_theme_path = ['_themes', ]
 #
 html_theme_options = {
     'collapse_navigation' : False,
-    'display_version': False,
-    'show_sphinx' : False
+    'display_version': False
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -102,7 +101,6 @@ html_theme_options = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 html_show_sourcelink = False
-show_sphinx = False
 
 # -- Options for HTMLHelp output ------------------------------------------
 

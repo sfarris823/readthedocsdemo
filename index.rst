@@ -1,10 +1,5 @@
 :tocdepth: 4
 
-Welcome to DemoChief's documentation!
-=====================================
-
-Hello World!
-
 .. toctree::
    :maxdepth: 4
    :hidden:
@@ -15,3 +10,11 @@ Hello World!
    server-software/index
    database/index
    glossary
+
+
+Welcome to DemoChief's documentation!
+=====================================
+
+This knowledge base describes the various software components of the DemoChief mobile resource management system as it is configured for the Travel Services Industry.
+
+

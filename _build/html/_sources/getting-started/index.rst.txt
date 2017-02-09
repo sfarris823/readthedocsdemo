@@ -3,8 +3,7 @@ Getting Started
 
 .. toctree::
    :maxdepth: 4
-   :hidden:
 
-   general-usage
+   main-menu
 
 Welcome to Getting Started!
