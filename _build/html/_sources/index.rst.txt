@@ -1,8 +1,10 @@
-:tocdepth: 4
+Welcome to DemoChief's documentation!
+=====================================
+
+This knowledge base describes the various software components of the DemoChief mobile resource management system as it is configured for the Travel Services Industry.
 
 .. toctree::
-   :maxdepth: 4
-   :hidden:
+   :maxdepth: 1
 
    getting-started/index
    office-software/index
@@ -10,11 +12,3 @@
    server-software/index
    database/index
    glossary
-
-
-Welcome to DemoChief's documentation!
-=====================================
-
-This knowledge base describes the various software components of the DemoChief mobile resource management system as it is configured for the Travel Services Industry.
-
-
