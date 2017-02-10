@@ -10,5 +10,4 @@ This knowledge base describes the various software components of the DemoChief m
    office-software/index
    mobile-software/index
    server-software/index
-   database/index
    glossary

@@ -1,5 +1,6 @@
 Getting Started
 ===================================
+Welcome to Getting Started!
 
 .. toctree::
    :maxdepth: 4
@@ -9,5 +10,3 @@ Getting Started
    tree-view
    list-view
    properties-form
-
-Welcome to Getting Started!
